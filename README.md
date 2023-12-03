@@ -27,3 +27,7 @@ Test Data: 3534 and 3 columns
 The idea behind this project was to leverage RNN/LSTM/GRU Sentiment Analysis
 
 Best Model has been GRU
+
+# Hosted it on Streamlit: Streamlit Link
+
+https://twitterssentimentanalysis.streamlit.app/
