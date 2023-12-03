@@ -1,4 +1,3 @@
 tensorflow
-json
 numpy
 streamlit
