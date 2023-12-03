@@ -3,6 +3,7 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import json
+import numpy as np
 
 model = load_model('GRU.h5') # Loading the pretrained GRU model
 
