@@ -1,0 +1,4 @@
+tensorflow
+json
+numpy
+streamlit
