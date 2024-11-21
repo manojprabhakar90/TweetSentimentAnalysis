@@ -4,7 +4,7 @@
 
 The first thing we notice when we are about to purchase a product would be the reviews and the sentiment associated with that product. For example, if we are going to purchase Apple Iphone in Amazon, we check the number of positive comments, negative comments and neutral comments. Sentiment analysis can be useful in many contexts.
 
-Understanding Consumer Opinions: Sentiment analysis helps businesses understand how customers feel about their products or services. This understanding can guide product development, marketing strategies, and customer service approaches.
+Understanding Consumer Opinions: Sentiment analysis helps businesses understand how customers feel about their products or services. This understanding can guide product development, marketing strategies, and customer service approaches
 
 Social Media Monitoring: By analyzing sentiments on social media platforms, companies can gauge public opinion about their brand, competitors, or industry trends. This insight is crucial for maintaining a positive brand image and making informed business decisions.
 
